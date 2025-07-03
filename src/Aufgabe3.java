@@ -8,7 +8,7 @@ public class Aufgabe3 {
         Random random = new Random();
         Scanner scanner = new Scanner(System.in);
 
-        int geheimZahl = random.nextInt(10) + 1; // 1-10 arası
+        int geheimZahl = random.nextInt(10) + 1; 
         int versuch;
 
         System.out.println("Ich denke an eine Zahl zwischen 1 und 10. Rate sie!");
