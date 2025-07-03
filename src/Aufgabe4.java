@@ -1,10 +1,3 @@
-// E-poçtun düzgünlüyünü yoxlayan proqram
-
-
-//Mövzu: String metodu contains(), endsWith() və şərt yoxlaması
-
-//Məqsəd: İstifadəçinin daxil etdiyi e-mail ünvanının .com ilə bitib-bitmədiyini və “@” simvolu olub-olmadığını yoxla.
-
 
 import java.util.Scanner;
 
@@ -24,11 +17,3 @@ public class Aufgabe4 {
     }
 }
 
-
-// endWith və contains() izahı:
-
-
-// contains () "Mətnin içində var?" yoxlamasıdır
-
-
-//endWith "Bu sonluqla bitir"
