@@ -13,7 +13,7 @@ public class Aufgabe2 {
 
         int anzahl = scanner.nextInt();
 
-        scanner.nextLine(); // yəni nextint-dən sonra buffer təmizlənir
+        scanner.nextLine(); 
 
         for (int i = 0; i < anzahl; i++) {
 
@@ -22,7 +22,7 @@ public class Aufgabe2 {
 
             String name = scanner.nextLine();
 
-            studenten.add(name); // siyahıya əlavə olunur
+            studenten.add(name); 
 
         }
 
