@@ -1,11 +1,3 @@
-// Sadə Menü sistemi (switch-case)
-
-
-// Mövzu: switch, case, default, break
-
-
-// Məqsəd: İstifadəçiyə seçim menyusu ver, switch-case ilə əməliyyatları yerinə yetir.
-
 
 import java.util.Scanner;
 
@@ -55,22 +47,3 @@ public class Aufgabe7 {
 
 }
 
-
-//switch — bir dəyişənin müxtəlif qiymətlərini yoxlayıb, uyğun hissəni işlədən bir idarəetmə strukturudur.
-
-//case — switch içində yoxlanacaq mümkün variantları göstərir.
-//Yəni: "Əgər gun == 1dirsə, bunu et..."
-
-// break — uyğun case tapıldıqdan sonra döngünü dayandırır və switch-dən çıxır.
-//Əgər break olmasa, növbəti case-lər də işləyər (buna "fall-through" deyilir).
-
-
-// default — heç bir case uyğun gəlmədikdə işləyən hissədir.
-//Eynilə else kimi düşünmək olar.
-
-// Nəticə cədvəli:
-//Element	İzahı
-//switch	Müxtəlif variantlara görə şərt yoxlaması aparır
-//case	Müəyyən dəyər üçün uyğun kod blokunu işə salır
-//break	case işlədikdən sonra switch-dən çıxmağı təmin edir
-//default	Heç bir case uyğun gəlmədikdə işləyən "sonuncu" seçim
