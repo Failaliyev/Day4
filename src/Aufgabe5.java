@@ -1,8 +1,3 @@
-//Mövzu: if, Scanner, double, formull istifadə
-
-
-//  Məqsəd: İstifadəçi hansı istiqamətdə çevirmək istədiyini seçsin. Dəyəri daxil edib nəticəni görsün.
-
 
 import java.util.Scanner;
 
