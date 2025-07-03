@@ -1,14 +1,5 @@
-// İstifadəçi Girişi – Şifrə ilə yoxlama (while və .equals())
-
-
-// Mövzu: String.equals(), while döngüsü, giriş sistemi
-
-// Məqsəd: İstifadəçidən istifadəçi adı və şifrə soruş, düzgün daxil edənədək təkrar soruş.
-
 
 import java.util.Scanner;
-
-
 
 public class Aufgabe6 {
 
@@ -35,8 +26,3 @@ public class Aufgabe6 {
         System.out.println("Zugang erlaubt. Willkommen!");
     }
 }
-
-
-// a==b sən eyni otaqdasan (yəni obyektin ünvanı)
-
-// a.equals(b) (sənin içində yazılan sözün eynidir, yənin mətnin özü) sadəcə müqayisə edir.
